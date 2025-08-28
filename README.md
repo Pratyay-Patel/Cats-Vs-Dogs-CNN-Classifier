@@ -114,4 +114,4 @@ You can deploy this app on:
 ---
 
 ## 👨‍💻 Author
-Developed with ❤️ using Flask + TensorFlow.  
+Developed by Pratyay Patel 
